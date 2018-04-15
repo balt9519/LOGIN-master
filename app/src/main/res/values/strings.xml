@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login Registrar</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">No.Control</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_login">Entrar</string>
+    <string name="text_register">Registrar</string>
+    <string name="error_message_name"> Ingresa Nombre Completo</string>
+    <string name="error_message_email">Ingresa No. Control Valido</string>
+    <string name="error_message_age">Ingresa Edad</string>
+    <string name="error_message_password">Ingresa Password</string>
+    <string name="success_message">Registro Exitoso</string>
+    <string name="text_not_member">No tienes cuenta aun? Crea una nueva</string>
+    <string name="text_already_member">Regresar a login</string>
+    <string name="error_email_exists">No. Control Existente</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Contraseña Incorrecta</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="text_hello">Hola,</string>
+    <string name="text_title">NoTimesy</string>
+</resources>
